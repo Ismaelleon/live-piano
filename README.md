@@ -8,7 +8,7 @@ more browsers. It uses [Tone.js](https://tonejs.github.io) for the sound, and
 ## Install
 1. Clone this repo:
 ```sh
-$ git clone https://github.com/Ismaelleon/live-pian
+$ git clone https://github.com/Ismaelleon/live-piano
 ```
 
 2. Install the dependencies:
